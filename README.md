@@ -1,7 +1,7 @@
 # Evaluating Statistical Models
-ODSC East 2021
-March 30, 2021 10:15am EST
-Instructor: [Mona Khalil](https://mona-kay.github.io/)
+- ODSC East 2021
+- March 30, 2021 10:15am EST
+- Instructor: [Mona Khalil](https://mona-kay.github.io/)
 
 ## Prerequisites
 - [jupyter lab or jupyter notebooks](https://jupyter.org/install)
