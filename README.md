@@ -23,5 +23,8 @@ Please use the main tutorial notebook as an example to follow throughout the tut
 ## Exercise Answers
 Completed exercise notebooks will be uploaded after the tutorial. However, there is no singular answer to the exercises. You have an opportunity to draw on your experiences when making recommendations based on results.
 
+## Additional Resources and Citations
+- [Modern Dive](https://moderndive.com/index.html)
+
 ## Questions?
 Reach out to me on Twitter at [mona_kay_](https://twitter.com/mona_kay_).
